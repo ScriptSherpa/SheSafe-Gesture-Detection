@@ -1,6 +1,6 @@
 # SheSafe - Gesture Detection System
 
-🚨 A deep learning-based SOS gesture recognition system trained to detect "Signal for Help" hand signs in real-time using webcam or image input.
+🚨 A deep learning-based SOS gesture recognition system trained to detect "Signal for Help" hand signs in real-time using webcam or image input '.
 
 ## Features
 
