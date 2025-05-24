@@ -1,0 +1,6 @@
+tensorflow>=2.8.0
+numpy
+opencv-python
+matplotlib
+mediapipe
+flask               # optional (if using web UI later)
